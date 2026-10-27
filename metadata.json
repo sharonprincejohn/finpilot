@@ -1,0 +1,6 @@
+{
+  "name": "FinPilot",
+  "description": "Personal finance management and financial monitoring application with cash flow forecasting, budget tracking, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
